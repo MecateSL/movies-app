@@ -30,5 +30,8 @@
     "passport-local": "^1.0.0",
     "slug": "^5.3.0"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "type": "module"
 }
